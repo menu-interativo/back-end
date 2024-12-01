@@ -849,12 +849,14 @@
         "Item Name": "Água",
         "Description": "",
         "Price": 4.00,
+        "categoris": "BEVERAGE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364752/yara.JPG"
     },
     {
         "Item Name": "Sucos",
         "Description": "",
         "Price": 13.90,
+        "categoris": "BEVERAGE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364738/sucos.JPG"
     }
 ]
