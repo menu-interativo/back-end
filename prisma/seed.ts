@@ -1,11 +1,10 @@
-import { DishCategory, PrismaClient } from '@prisma/client';
+import { PrismaClient } from '@prisma/client';
 import { hash } from 'bcryptjs';
 
 import dishesFromJson from '../dishes.json';
 import { slugify } from '../src/helpers/slugify';
 
 const prisma = new PrismaClient();
-const categories = Object.values(DishCategory);
 
 async function seed() {
 	await prisma.user.deleteMany();
@@ -15,14 +14,13 @@ async function seed() {
 	const dishes = dishesFromJson
 		.map(dish => {
 			const name = dish['Item Name'];
-			const index = Math.floor(Math.random() * categories.length);
 			return {
 				name,
 				slug: slugify(name),
 				description: dish.Description,
 				price: dish.Price,
 				imageUrl: dish.Image,
-				category: categories[index],
+				category: dish.categoris,
 				stock: 100,
 			};
 		})
