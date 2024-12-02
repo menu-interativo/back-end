@@ -1,860 +1,856 @@
 [
     {
-        "Item Name": "Camarão à Fiorentina p/ 2 Pessoa + 2 Heinekens Long Neck",
-        "Description": "Nosso Delicioso camarão refogado com molho branco, manjericão, batata palha e gratinado com queijo mussarela + 2 cervejinhas para acompanhar",
-        "Price": 116.60,
-        "Image": "https://cdn.neemo.com.br/uploads/item/photo/2040729/photo1690832509.jpeg.webp"
-    },
-    {
-        "Item Name": "Camarão a Delicia + Refri Lata",
-        "Description": "Deliciosos camarões ao molho branco, servido com espaguete + refrigerante em Lata",
-        "Price": 57.80,
-        "Image": "https://cdn.neemo.com.br/uploads/item/photo/423041/coca_mais_camarao.JPG"
-    },
-    {
-        "Item Name": "2 Pizzas + 2 Refri + TAXA GRÁTIS",
-        "Description": "2 pizzas grandes + 2 Refri de 1litro + TAXA GRÁTIS",
-        "Price": 145.40,
-        "Image": "https://cdn.neemo.com.br/uploads/item/photo/831627/WhatsApp_Image_2022-06-24_at_17.55.13.jpeg"
-    },
-    {
-        "Item Name": "Frango alho e purê + suco 300ml",
-        "Description": "Frango grelhado finalizado com alho, legumes salteados e purê + suco 300ml",
-        "Price": 62.60,
-        "Image": "https://cdn.neemo.com.br/uploads/item/photo/1932750/WhatsApp_Image_2023-03-17_at_14.webp"
-    },
-    {
-        "Item Name": "Frango à Moda + Farofa de ovos + Refrigerante em lata",
-        "Description": "Frango, cebola, molho madeira, arroz branco e purê + farofa de ovos + refrigerante em lata (serve 1 pessoa)",
-        "Price": 68.80,
-        "Image": "https://cdn.neemo.com.br/uploads/item/photo/1932740/WhatsApp_Image_2023-03-17_at_13.webp"
-    },
-    {
-        "Item Name": "Lasanha a bolonhesa + arroz + Refrigerante em lata",
-        "Description": "Deliciosa lasanha à bolonhesa (carne moída e molho vermelho) + porção de arroz + refrigerante em lata (serve 1 pessoa)",
-        "Price": 63.70,
-        "Image": "https://cdn.neemo.com.br/uploads/item/photo/1093750/lasanha_arroz_lata.JPG"
-    },
-    {
-        "Item Name": "Frango a Parmegiana 2 Pessoas + 2 Pudim + Pet 1L",
-        "Description": "Delicioso frango empanado, gratinado ao forno com molho de tomate, purê, guarnecido de arroz branco. Acompanhado de mini pudim de leite.",
-        "Price": 106.50,
-        "Image": "https://cdn.neemo.com.br/uploads/item/photo/2007215/parmeg_2p.webp"
-    },
-    {
-        "Item Name": "Lasanha a Bolonhesa 2 Pessoas + 2 Pudim + Pet 1L",
-        "Description": "Deliciosa lasanha ao molho bolonhesa (carne moida e molho vermelho). Acompanhado de mini pudim de leite.",
-        "Price": 114.20,
-        "Image": "https://cdn.neemo.com.br/uploads/item/photo/2007213/Captura_de_tela_2023-06-20_135252.webp"
-    },
-    {
-        "Item Name": "Camarão à Parisiense 2 Pessoas + 2 Pudim + Pet 1L",
-        "Description": "Delicioso camarão refogado com ervilha, presunto e molho branco. Gratinado com mussarela finalizado com batata palha. Acompanhado de mini pudim de leite.",
-        "Price": 121.50,
-        "Image": "https://cdn.neemo.com.br/uploads/item/photo/2007194/Camar_o_Parisiense_oficial.webp"
-    },
-    {
-        "Item Name": "Filé à Parmegiana + Cocada s/ sorvete + Refrigerante em lata",
-        "Description": "Nosso sensacional filé à parmegiana com purê e arroz + cocada de forno + refrigerante em lata (serve 1 pessoa)",
-        "Price": 87.80,
-        "Image": "https://cdn.neemo.com.br/uploads/item/photo/1093748/WhatsApp_Image_2022-12-09_at_10.webp"
-    },
-    {
-        "Item Name": "Camarão à Fiorentina p/ 2 Pessoa + 2 Heinekens Long Neck",
-        "Description": "Nosso Delicioso camarão refogado com molho branco, manjericão, batata palha e gratinado com queijo mussarela + 2 cervejinhas para acompanhar",
-        "Price": 97.70,
-        "Image": "https://cdn.neemo.com.br/uploads/item/photo/2040729/photo1690832509.jpeg.webp"
-    },
-    {
         "Item Name": "Rodizio p/ 2 e 3 pessoas",
-        "Description": "O melhor Rodizio de Massas na sua casa, 4 Massas (serve 2 pessoas)\n4 massas de 500ml cada",
+        "Description": "O melhor Rodizio de Massas na sua casa, 4 Massas (serve 2 pessoas)\n4 massas de 500ml cada",
         "Price": 109.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/833138/1111.jpeg"
     },
     {
         "Item Name": "Rodizio p/ 3 pessoas",
         "Description": "O melhor Rodizio de Massas na sua casa, 4 Massas (serve 3 à 4pessoas)\nescolha 4 massas (700ml cada)",
         "Price": 129.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/386798/1111.jpeg"
-    },
-    {
-        "Item Name": "Couvert",
-        "Description": "Uma variada entrada que possui pão com alho, tomate seco, azeitonas, cogumelo, patê de atum e tiras de frango empanado!",
-        "Price": 26.40,
-        "Image": "https://cdn.neemo.com.br/uploads/item/photo/832800/couvert.JPG"
     },
     {
         "Item Name": "Pastel (4 Unidades)",
         "Description": "O melhor pastel da cidade só tem aqui!",
         "Price": 19.90,
+        "categoris": "APPETIZER",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364952/pastel_fio.jpg"
     },
     {
         "Item Name": "Pão c/ Alho",
         "Description": "Pão francês com pasta de alho.",
         "Price": 9.00,
+        "categoris": "APPETIZER",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364947/istockphoto-146734413-612x612.jpg"
     },
     {
         "Item Name": "Camarão Ao Alho e Óleo",
-        "Description": "",
+        "Description": "Delicioso camarão grelhado ao alho e óleo, acompanhado de batatas fritas e arroz branco.",
         "Price": 42.80,
+        "categoris": "APPETIZER",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364943/camarao_alho_e_oleo.jpg"
     },
     {
         "Item Name": "Salada Fiorentina",
         "Description": "Alfaces variados, tomate, legumes e ovos cozidos.",
         "Price": 27.40,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364941/salada_fiorentina_oficial.jpg"
     },
     {
         "Item Name": "Salada Caesar",
         "Description": "Alface crespa, queijo parmesão em flocos, croutons e molho caesar.",
         "Price": 27.40,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364939/salada_caesar-2.png"
     },
     {
         "Item Name": "Batatas Fritas",
-        "Description": "",
+        "Description": "Porção crocante de batatas fritas, perfeita para acompanhar qualquer prato.",
         "Price": 12.90,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364930/batata.JPG"
     },
     {
         "Item Name": "Filé Simples Infantil",
         "Description": "Acompanha arroz branco, batata frita e farofa.",
         "Price": 51.52,
+        "categoris": "MAIN_COURSE",
         "Image": ""
     },
     {
         "Item Name": "Escalopinho para 3 pessoas",
-        "Description": "clica aqui e confira os sabores disponiveis",
+        "Description": "Clique aqui e confira os sabores disponiveis",
         "Price": 179.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/894421/esc.JPG"
     },
     {
         "Item Name": "Filé Mignon à Parmegiana 2 pessoas",
         "Description": "Suculento Filé empanado, mussarela gratinada ao forno com molho de tomate, servido com arroz branco e purê.",
         "Price": 115.30,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/825904/parmeg_2p.jpg"
     },
     {
         "Item Name": "Escalopinho ao Molho Madeira",
         "Description": "Servido com arroz a piamontese, purê e molho de madeira.",
         "Price": 86.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/381172/Escalopinho_ao_molho_madeira.jpg"
     },
     {
         "Item Name": "Medalhão Ao Molho Madeira",
         "Description": "Suculento Filé ao molho madeira, servido com bacon, purê e arroz",
         "Price": 86.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/381167/medalhao_ao_molho_madeira.JPG"
     },
     {
         "Item Name": "Chateaubriand À Diplomata",
         "Description": "Servido com arroz a grega, batata fritas, legumes salteados no molho e molho madeira.",
         "Price": 86.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364860/chateaubriang1.JPG"
     },
     {
         "Item Name": "Filé Mignon À Moda",
         "Description": "Servido com bacon, batata saltê, palmito, aspargos e arroz a grega.",
         "Price": 86.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364855/Fil____Moda.jpg"
     },
     {
         "Item Name": "Filé Mignon À Cavalo",
         "Description": "Grelhado, servido com ovo, arroz a grega e farofa de ovos.",
         "Price": 86.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364854/Fil____Cavalo.jpg"
     },
     {
         "Item Name": "Filé Mignon À Gaúcha",
-        "Description": "Grelhado, servido com maionese de legumes, arroz branco, farofa de ovos e calabresa.",
+        "Description": "Grelhado, servido com maionese de legumes, arroz branco, farofa de ovos e calabresa.",
         "Price": 86.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364853/Fil____Ga_cha.jpg"
     },
     {
         "Item Name": "Filé Mignon À Califórnia",
         "Description": "Grelhado, servido com arroz a grega, purê de batatas, frutas em caldas e molho madeira.",
         "Price": 86.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364852/file_a_california.JPG"
     },
     {
         "Item Name": "Filé Mignon Acebolado",
         "Description": "Grelhado, servido com molho mandeira, arroz a grega e purê de batatas.",
         "Price": 86.80,
+        "categoris": "MAIN_COURSE",
         "Image": ""
     },
     {
         "Item Name": "Estrogonofe",
         "Description": "Filé em cubos com molho, servido com arroz branco e batatas coradas.",
         "Price": 86.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364850/estrogonoffe_de_carne_oficial.jpg"
     },
     {
         "Item Name": "Filé Mignon À Cubana",
         "Description": "Servido com banana, palmito, tomate e cebola empanados, arroz a grega e fritas.",
         "Price": 86.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364848/cubana.JPG"
     },
     {
         "Item Name": "Filé Mignon À Parmegiana",
         "Description": "Empanado, mussarela gratinada ao forno com molho de tomate, servido com arroz branco e purê.",
         "Price": 75.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364846/1a9214d5-e4f8-48f7-ba29-f6273fb672cf.jpg"
     },
     {
         "Item Name": "Brochete À La Grega",
         "Description": "Espetinhos de filé com tomate, cebola e pimentão, servido com arroz à grega, farofa de ovos e molho vinagrete.",
         "Price": 102.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364842/brochete_a_la_grega.JPG"
     },
     {
         "Item Name": "Filé Mignon Pizzaiolo",
         "Description": "Gratinado, servido com molho madeira, aspargos, mussarela e arroz branco.",
         "Price": 91.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364839/file_pizzaiolo_oficial.png"
     },
     {
         "Item Name": "Medalhão ao Molho de Bacon",
         "Description": "Servido com purê, arroz e legumes grelhados.",
         "Price": 89.90,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364838/Medalh_o_ao_molho_de_bacon.JPG"
     },
     {
         "Item Name": "Filé c/ Cebolas Caramelizadas",
         "Description": "Arroz com brócolis, batata frita, cebola roxa caramelizada.",
         "Price": 87.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364835/file_com_cebola_caramelizada1.JPG"
     },
     {
         "Item Name": "Carne de Sol",
         "Description": "Banana, queijo, cebola roxa, acompanhado de baião.",
         "Price": 63.00,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364833/carne_de_sol.JPG"
     },
     {
         "Item Name": "Estrogonofe de Frango",
         "Description": "Delicioso frango cortado em tiras, com molho, servido com arroz branco e batatas coradas.",
         "Price": 49.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/2075627/photo1693867942.jpeg.webp"
     },
     {
         "Item Name": "Frango À Moda",
         "Description": "Acebolado com molho madeira, arroz branco e purê.",
         "Price": 49.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364770/Frango___Moda.jpg"
     },
     {
         "Item Name": "Frango À Cubana",
         "Description": "Com banana, palmito, tomate e cebola empanada, acompanha arroz à grega e fritas.",
         "Price": 49.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364769/Frango___Cubana.jpg"
     },
     {
         "Item Name": "Frango À Passarinho",
         "Description": "Fritas em pedaços com alho, servido com arroz e fritas.",
         "Price": 49.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364767/frango_a_passarinh1.jpg"
     },
     {
         "Item Name": "Frango À Francesa",
         "Description": "Grelhados com batata palha, presunto, cebolas, ervilhas e arroz branco.",
         "Price": 49.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364766/Frango___Francesa.jpg"
     },
     {
         "Item Name": "Frango À Califórnia",
-        "Description": "Grelhado com arroz à grega, purê e frutas.",
+        "Description": "Grelhado com arroz à grega, purê e frutas.",
         "Price": 49.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364765/frango_a_california_oficial.jpg"
     },
     {
         "Item Name": "Frango c/ Alho e Purê",
         "Description": "Grelhado com legumes salteados no molho.",
         "Price": 49.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364764/Frango_Com_Alho_e_Pur_.jpg"
     },
     {
         "Item Name": "Frango Suiço",
         "Description": "Empanado, gratinado com molho de queijo, mussarela, servido com purê e arroz.",
         "Price": 49.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364761/frango_sui_o_oficial.jpg"
     },
     {
         "Item Name": "Frango À Parmegiana",
         "Description": "Empanado, gratinado ao forno com molho de tomate, arroz branco e purê.",
         "Price": 49.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364760/parmegiana_de_frango.JPG"
     },
     {
         "Item Name": "Parmegiana de Frango com Espaguete",
         "Description": "Frango à parmegiana, espaguete ao molho vermelho.",
         "Price": 74.50,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/943427/4.JPG"
     },
     {
         "Item Name": "Filé de Frango com Salada Fiorentina",
         "Description": "Frango grelhado temperado com alho, alface, tomate, batata, ovo, beterraba e cenoura, acompanha arroz à piamontese",
         "Price": 74.50,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/943421/2.JPG"
     },
     {
         "Item Name": "Frango com Ervas",
         "Description": "Frango assado com molho de ervas, batata frita e arroz cremoso à marguerita (manjericão e tomate)",
         "Price": 74.50,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/943415/3.JPG"
     },
     {
         "Item Name": "Costela Suína com Barbecue",
         "Description": "Costelinha suína, molho barbecue, batata frita e arroz Yakimeshi",
         "Price": 74.50,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/943412/1.JPG"
     },
     {
         "Item Name": "Caldeirada Amazonense 2 Pessoas",
-        "Description": "",
+        "Description": "Prato regional delicioso, perfeito para compartilhar, com peixe, camarão e temperos amazônicos.",
         "Price": 78.80,
+        "categoris": "MAIN_COURSE",
         "Image": ""
     },
     {
         "Item Name": "Peixe ao Molho de Camarão",
         "Description": "Caprichado prato de peixe, servido com purê, arroz e molho de camarão.",
         "Price": 59.80,
+        "categoris": "MAIN_COURSE",
         "Image": ""
     },
     {
         "Item Name": "Peixe à Belle Meuniére",
         "Description": "Saboroso peixe grelhado na manteiga com alcaparras, aspargos, arroz branco e batata sauté.",
         "Price": 58.20,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/820940/Pirarucu_a_belle_mouniere.jpg"
     },
     {
         "Item Name": "Peixe com Queijo Coalho e Banana 2 Pessoas",
         "Description": "Peixe de sua escolha, caprichado com queijo coalho grelhado, banana frita e farofa de ovos",
         "Price": 78.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/820939/Captura_de_tela_2022-10-12_180136.png"
     },
     {
         "Item Name": "Peixe ao Molho de ervas",
         "Description": "Suculento Peixe de sua escolha, servido com batata dorê e arroz com brocólis",
         "Price": 52.90,
+        "categoris": "MAIN_COURSE",
         "Image": ""
     },
     {
         "Item Name": "Peixe À Brasileira",
         "Description": "Grelhado servido com arroz, pirão e ovos cozidos.",
         "Price": 50.60,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364784/pirarucu_a_brasileira.JPG"
     },
     {
         "Item Name": "Moqueca",
         "Description": "Pirarucu ou Tambaqui com molho leite de coco, dendê, legumes salteados e arroz branco.",
         "Price": 60.30,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364781/moqueca_sem_camarao_oficial.jpg"
     },
     {
         "Item Name": "Peixe À Escabeche",
         "Description": "Frito e cozido em molho e servido com arroz, pirão ou purê.",
         "Price": 55.50,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364774/Tambaqui_ou_pirarucu_a_escabeche.jpg"
     },
     {
         "Item Name": "Peixe Suiço",
         "Description": "Empanado, gratinado com molho de queijo suíço, mussarela, servido com purê e arroz.",
         "Price": 49.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364773/pirarucu_sui_o_oficial.jpg"
     },
     {
         "Item Name": "Peixe c/ Alho e Purê",
         "Description": "Grelhado com legumes salteados no alho.",
         "Price": 43.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364772/Pirarucu_com_Alho_e_Pur_.jpg"
     },
     {
         "Item Name": "Pirarucu de casaca + arroz branco",
         "Description": "Saboroso e Tradicional Pirarucu seco com iguarias amazônicas, banana frita, farinha do uarini e finalizado com batata palha, acompanha arroz branco.",
         "Price": 26.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/468802/restaurante-em-belem.jpg"
     },
     {
         "Item Name": "Camarão à Delícia",
         "Description": "Deliciosos camarões ao molho branco, sevido com espaguete.",
         "Price": 59.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/394068/camarao_a_delicia_oficial.png"
     },
     {
         "Item Name": "Moqueca de Camarão",
         "Description": "Camarão ao leite de coco e azeite de dendê, servido com legumes salteados e arroz branco.",
         "Price": 86.68,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364832/camarao_moqueca.jpg"
     },
     {
         "Item Name": "Moqueca de Peixe c/ Camarão",
         "Description": "Peixe e camarão ao leite de coco, azeite de dendê, servido com legumes salteados e arroz branco.",
         "Price": 92.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364829/moqueca_de_peixe_com_camarao_oficial.jpg"
     },
     {
         "Item Name": "Camarão À Milanesa",
         "Description": "Camarão empanado e frito servido com arroz a grega e purê.",
         "Price": 60.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364827/camarao_a_milanesa_oficial.jpg"
     },
     {
         "Item Name": "Camarão Alho e Óleo",
         "Description": "acompanhado de arroz branco, legumes salteados e batata frita",
         "Price": 60.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364826/camarao_alho_e_oleo_prato.JPG"
     },
     {
         "Item Name": "Risoto de Camarão",
-        "Description": "",
+        "Description": "Arroz cremoso com camarões frescos, finalizado com temperos especiais.",
         "Price": 60.30,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364824/risoto_de_camarao_oficial.jpg"
     },
     {
         "Item Name": "Camarão À Fiorentina",
         "Description": "Arroz envolto por molho branco, camarão gratinado com mussarela e manjericão, finalizado com batata palha.",
         "Price": 59.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364821/Camar_o_Parisiense_oficial.png"
     },
     {
         "Item Name": "Camarão À Parisiense",
         "Description": "Arroz envolto por molho branco, camarão gratinado com mussarela, presunto, ervilha, finalizado com batata palha.",
         "Price": 59.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364819/Camar_o_Parisiense_oficial.png"
     },
     {
         "Item Name": "Camarão Alemã",
         "Description": "Camarão frito servido com arroz à grega, gratinado com molho vermelho, mussarela e finalizado com batata palha.",
         "Price": 59.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364815/camarao_alema_p2.jpg"
     },
     {
         "Item Name": "Camarão 4 Queijos",
         "Description": "Molho branco especial, gorgonzola, parmesão, catupiry e camarão, acompanha arroz branco ou massa",
         "Price": 59.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364812/4_queijos_oficial.JPG"
     },
     {
         "Item Name": "Camarão c/ Espinafre",
         "Description": "Molho branco especial refogado com espinafre e camarão, finalizado com mussarela e parmesão.",
         "Price": 59.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364809/camarao_com_espinafre_oficial.JPG"
     },
     {
         "Item Name": "Camarão c/ Brócolis e Bacon",
         "Description": "Espaguete servido com molho branco especial, camarão refogado com brócolis, bacon envolvido com arroz branco ou espaguete.",
         "Price": 59.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364804/Talharim_com_brocolis_bacon_e_camar_o_oficial_.png"
     },
     {
         "Item Name": "Camarão c/ Queijo Coalho",
         "Description": "Camarão refogado com  tomate, alho caramelo, salsa e molho branco especial, finalizado com queijo coalho.",
         "Price": 59.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364803/camarao_com_queijo_qualho_oficial.png"
     },
     {
         "Item Name": "Nhoque ao Sugo",
         "Description": "Massa ao molho vermelho.",
         "Price": 38.80,
+        "categoris": "MAIN_COURSE",
         "Image": ""
     },
     {
         "Item Name": "Lasanha à 4 Queijos",
         "Description": "Massa acompanhada de queijo provolone, queijo Catupiry e queijo mussarela.",
         "Price": 49.80,
+        "categoris": "MAIN_COURSE",
         "Image": ""
     },
     {
         "Item Name": "Rondele À Fiorentina",
         "Description": "Recheio de mussarela e presunto.",
         "Price": 49.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364920/rondelle_a_fiorentina.JPG"
     },
     {
         "Item Name": "Lasanha À Bolonhesa",
         "Description": "Mussarela e carne moída.",
         "Price": 54.60,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364919/lasanha_bolonhesa.JPG"
     },
     {
         "Item Name": "Lasanha de Frango",
         "Description": "Mussarela e frango desfiado.",
         "Price": 49.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364918/lasanha_frango.JPG"
     },
     {
         "Item Name": "Caneloni de Frango",
         "Description": "Frango gratinado com queijo.",
         "Price": 41.60,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364909/caneloni_de_frango.JPG"
     },
     {
         "Item Name": "À Fiorentina",
         "Description": "Massa de sua escolha Gratinada com molho branco, mussarela e bacon.",
         "Price": 49.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364908/Camar_o___Fiorentina_oficial.jpg"
     },
     {
         "Item Name": "À Bolonhesa",
         "Description": "Massa de sua escolha com Molho de carne e gratinada.",
         "Price": 49.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364907/nhoque_bolonhesa.JPG"
     },
     {
         "Item Name": "Com Frango",
         "Description": "Massa de sua escolha com molho vermelho ou suíço.",
         "Price": 44.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364906/com_frango_oficial.JPG"
     },
     {
         "Item Name": "Ao Forno",
         "Description": "Massa de sua escolha gratinada com mussarela e presunto.",
         "Price": 44.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364905/ao_forno_oficial.JPG"
     },
     {
         "Item Name": "À Quatro Queijos",
         "Description": "Mussarela, parmesão, catupiri e provolone.",
         "Price": 49.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364904/lasanha_frango.JPG"
     },
     {
         "Item Name": "À Putanesca",
         "Description": "Com alcaparras, azeitona, azeite, tomate e atum.",
         "Price": 49.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364902/putanesca.JPG"
     },
     {
         "Item Name": "À Carbornara",
         "Description": "Massa de sua escolha com ovos, bacon e mussarela.",
         "Price": 49.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364901/carbonara_ou_supreme_oficial.png"
     },
     {
         "Item Name": "Ao Alho e Óleo",
-        "Description": "",
+        "Description": "Massa preparada com alho dourado e um toque de azeite de oliva, perfeita para quem aprecia sabores simples e deliciosos.",
         "Price": 38.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364899/macarrao_ao_alho_e_oleo_oficial.jpg"
     },
     {
         "Item Name": "À Supreme",
         "Description": "Gratinado com molho branco, frango desfiado, presunto e mussarela.",
         "Price": 49.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364898/carbonara_ou_supreme_oficial.png"
     },
     {
         "Item Name": "Aos Frutos do Mar",
         "Description": "Cebola, alho, ervas frescas, coentro, camarão, mexilhão, polvo e lula.",
         "Price": 65.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364897/frutos_do_mar_oficial.jpg"
-    },
-    {
-        "Item Name": "Frango a Parmegiana 2 Pessoas + 2 Pudim + Pet 1L",
-        "Description": "Delicioso frango empanado, gratinado ao forno com molho de tomate, purê, guarnecido de arroz branco. Acompanhado de mini pudim de leite.",
-        "Price": 95.80,
-        "Image": "https://cdn.neemo.com.br/uploads/item/photo/2007215/parmeg_2p.webp"
-    },
-    {
-        "Item Name": "Lasanha a Bolonhesa 2 Pessoas + 2 Pudim + Pet 1L",
-        "Description": "Deliciosa lasanha ao molho bolonhesa (carne moida e molho vermelho). Acompanhado de mini pudim de leite.",
-        "Price": 102.80,
-        "Image": "https://cdn.neemo.com.br/uploads/item/photo/2007213/Captura_de_tela_2023-06-20_135252.webp"
-    },
-    {
-        "Item Name": "Camarão à Parisiense 2 Pessoas + 2 Pudim + Pet 1L",
-        "Description": "Delicioso camarão refogado com ervilha, presunto e molho branco. Gratinado com mussarela finalizado com batata palha. Acompanhado de mini pudim de leite.",
-        "Price": 109.80,
-        "Image": "https://cdn.neemo.com.br/uploads/item/photo/2007194/Camar_o_Parisiense_oficial.webp"
-    },
-    {
-        "Item Name": "Frango alho e purê + suco 300ml",
-        "Description": "Frango grelhado finalizado com alho, legumes salteados e purê + suco 300ml",
-        "Price": 56.30,
-        "Image": "https://cdn.neemo.com.br/uploads/item/photo/1932750/WhatsApp_Image_2023-03-17_at_14.webp"
-    },
-    {
-        "Item Name": "Frango à Moda + Farofa de ovos + Refrigerante em lata",
-        "Description": "Frango, cebola, molho madeira, arroz branco e purê + farofa de ovos + refrigerante em lata (serve 1 pessoa)",
-        "Price": 61.90,
-        "Image": "https://cdn.neemo.com.br/uploads/item/photo/1932740/WhatsApp_Image_2023-03-17_at_13.webp"
-    },
-    {
-        "Item Name": "Lasanha a bolonhesa + arroz + Refrigerante em lata",
-        "Description": "Deliciosa lasanha à bolonhesa (carne moída e molho vermelho) + porção de arroz + refrigerante em lata (serve 1 pessoa)",
-        "Price": 57.30,
-        "Image": "https://cdn.neemo.com.br/uploads/item/photo/1093750/lasanha_arroz_lata.JPG"
-    },
-    {
-        "Item Name": "Filé à Parmegiana + Cocada s/ sorvete + Refrigerante em lata",
-        "Description": "Nosso sensacional filé à parmegiana com purê e arroz + cocada de forno + refrigerante em lata (serve 1 pessoa)",
-        "Price": 79.50,
-        "Image": "https://cdn.neemo.com.br/uploads/item/photo/1093748/WhatsApp_Image_2022-12-09_at_10.webp"
     },
     {
         "Item Name": "Peixe Amazônico",
         "Description": "Deliciosas Costelas de Tambaqui ou Pirarucu a milanesa, com suculento arroz de tucupi e jambu e camarão.",
         "Price": 78.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/811054/peixe_amazonico-100x100-01.png"
     },
     {
         "Item Name": "Camarão ao Alho e Óleo",
         "Description": "Petisco de camarão, 500g de camarão com cabeça com um tempero delicioso",
         "Price": 54.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/535657/camarao_ao_alho_e_oleo_fio.JPG"
-    },
-    {
-        "Item Name": "Camarão a Delicia + Refri Lata",
-        "Description": "Deliciosos camarões ao molho branco, servido com espaguete + refrigerante em Lata",
-        "Price": 49.80,
-        "Image": "https://cdn.neemo.com.br/uploads/item/photo/423041/coca_mais_camarao.JPG"
     },
     {
         "Item Name": "Camarão para 2 pessoas",
         "Description": "Escolha entre: à Fiorentina, à Parisiense, À Delicia, Alemã, aos 4 Queijos, com espinafre, com brocolis, com queijo qualho ou com alho poró e bacon",
         "Price": 76.85,
+        "categoris": "MAIN_COURSE",
         "Image": ""
     },
     {
         "Item Name": "Camarão com alho poró e bacon",
-        "Description": "Camarões com a massa tipo Penne com molho branco especial (alho poró, bacon crocante e milho)",
+        "Description": "Camarões com a massa tipo Penne com molho branco especial (alho poró, bacon crocante e milho)",
         "Price": 43.70,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/373517/camarao_com_alho_por__e_bacon.JPG"
     },
     {
         "Item Name": "Camarão ao Molho Pomodoro",
         "Description": "Gostosos Camarões com molho pomodoro e servido com Espaguete",
         "Price": 50.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/373482/camarao_ao_molho_pomodoro.JPG"
     },
     {
         "Item Name": "Camarão ao molho Pesto",
         "Description": "Camarão com molho pesto servido com Talharim",
         "Price": 43.70,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/373480/camarao_com_azeite_de_ervas.JPG"
     },
     {
         "Item Name": "Camarão Cremoso",
         "Description": "Camarão com arroz com queijo mussarela, molho vermelho, tomate picado e finalizado com cebolinha.",
         "Price": 43.70,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/373472/camarao_cremoso.JPG"
     },
     {
         "Item Name": "Frango desossado com azeite de ervas",
         "Description": "Generoso corte de Sobrecoxa desossada c/ azeite de ervas, acompanha arroz c/brócolis e batata frita.",
         "Price": 49.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/373470/coxa_e_sobrecoxa.JPG"
     },
     {
         "Item Name": "Pirarucu à Milanesa c/ Molho Tártaro",
-        "Description": "deliciosa Posta de Pirarucu à milanesa com arroz, purê e acompanha molho tártaro",
+        "Description": "Deliciosa Posta de Pirarucu à milanesa com arroz, purê e acompanha molho tártaro",
         "Price": 43.70,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/373466/pirarucu_a_milanesa_com_molho_tartaro.JPG"
     },
     {
         "Item Name": "Pirarucu com geleia de cupuaçu e pimenta",
         "Description": "Deliciosa posta de pirarucu com geleia de cupuaçu levemente apimentada, acompanha baião de dois e farofa de ovo",
         "Price": 43.70,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/373435/pirarucu_geleia.JPG"
     },
     {
-        "Item Name": "2 Pizzas + 2 Refri + TAXA GRÁTIS",
-        "Description": "2 pizzas grandes + 2 Refri de 1litro + TAXA GRÁTIS",
-        "Price": 129.80,
-        "Image": "https://cdn.neemo.com.br/uploads/item/photo/831627/WhatsApp_Image_2022-06-24_at_17.55.13.jpeg"
-    },
-    {
         "Item Name": "Farofa de Ovos",
-        "Description": "",
+        "Description": "Tradicional farofa de ovos, um acompanhamento saboroso para qualquer prato.",
         "Price": 14.00,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/1867066/farofa_de_ovos.webp"
     },
     {
         "Item Name": "Farofa Simples",
-        "Description": "",
+        "Description": "Farofa simples e deliciosa, ideal para complementar sua refeição.",
         "Price": 6.00,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/1867062/farofa.webp"
     },
     {
         "Item Name": "Porção de Maionese",
-        "Description": "",
+        "Description": "Porção de maionese cremosa, perfeita como acompanhamento.",
         "Price": 8.90,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/1055074/g_81e76-maionese.webp"
     },
     {
         "Item Name": "Feijão Preto",
-        "Description": "",
+        "Description": "Porção de feijão preto cozido, ideal para acompanhar qualquer refeição.",
         "Price": 7.00,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/1035761/_img-modo-de-preparo-esq.webp"
     },
     {
         "Item Name": "Arroz À Fiorentina",
         "Description": "Arroz, ovos fritos, ervilha, uvas passas e batata palha.",
         "Price": 17.40,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364935/arroz_fiorentina_oficial.jpg"
     },
     {
         "Item Name": "Arroz À Piamontese",
-        "Description": "Arroz, molho branco, queijo mussarela e champignon.",
+        "Description": "Arroz, molho branco, queijo mussarela e champignon.",
         "Price": 22.90,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364933/arroz_a_piamontese_oficial.jpg"
     },
     {
         "Item Name": "Arroz Branco",
-        "Description": "",
+        "Description": "Arroz branco soltinho, perfeito como base para qualquer prato.",
         "Price": 7.00,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364932/arroz-branco_max.jpg"
     },
     {
         "Item Name": "Arroz À Grega",
         "Description": "Arroz, uvas passas, cenoura ralada, ervilha e presunto.",
         "Price": 8.90,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364931/arroz_a_grega.JPG"
     },
     {
         "Item Name": "Purê de Batatas",
-        "Description": "",
+        "Description": "Purê de batatas cremoso, um clássico acompanhamento para sua refeição.",
         "Price": 14.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364928/pur_.JPG"
     },
     {
         "Item Name": "Sopa de Carne 1 Pessoa",
         "Description": "Imagem meramente Ilustrativa.",
         "Price": 27.60,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/1867071/sopa_de_carne.webp"
     },
     {
         "Item Name": "Canja de Galinha 1 pessoa",
         "Description": "Imagem meramente Ilustrativa.",
         "Price": 27.60,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/1867070/canja.webp"
     },
     {
         "Item Name": "Creme de Palmito 1 pessoa",
         "Description": "Imagem meramente Ilustrativa.",
         "Price": 27.60,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/1509220/94164c5c401d764f6e7fbc6780de222d_M.webp"
     },
     {
         "Item Name": "Penne à Bolonhesa",
         "Description": "Aquele sabor que dá agua na boca! Deliciosa massa tipo penne com molho à bolonhesa",
         "Price": 49.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/783861/bolonhesa.JPG"
     },
     {
         "Item Name": "Camarão com alho poró e bacon",
         "Description": "Pratão de Camarão todo pra você! Penne ao molho branco com alho poró e bacon crocante",
         "Price": 50.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/783860/bacon.JPG"
     },
     {
         "Item Name": "Camarão Ao molho Pomodoro",
         "Description": "Suculenta massa com camarões ao molho vermelho",
         "Price": 50.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/783857/pomodoro.JPG"
     },
     {
         "Item Name": "Camarão com Azeite de Ervas",
         "Description": "suculenta massa com camarão e azeite de ervas",
         "Price": 50.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/783856/azeite.JPG"
     },
     {
         "Item Name": "Camarão Cremoso",
-        "Description": "Delicioso risoto com molho vermelho e camarões",
+        "Description": "Delicioso risoto com molho vermelho e camarões",
         "Price": 50.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/783851/WhatsApp_Image_2021-01-12_at_09.51.10.jpeg"
     },
     {
         "Item Name": "Coxa e Sobrecoxa de Frango com azeite de ervas",
         "Description": "Acompanha arroz com brocólis e batata frita",
         "Price": 49.80,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/783850/frango.JPG"
     },
     {
         "Item Name": "Pirarucu à Milanesa com molho Tártaro",
         "Description": "Acompanha arroz branco e purê",
         "Price": 43.70,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/783849/tartaro.JPG"
     },
     {
         "Item Name": "Pirarucu com Geleia de cupuaçu e pimenta",
         "Description": "Peixinho regional delicioso que acompanha arroz à grega e farofa de ovo",
         "Price": 43.70,
+        "categoris": "MAIN_COURSE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/783848/geleia.JPG"
     },
     {
         "Item Name": "Petit Gateau",
         "Description": "Não está incluso sorvete para pedidos no delivery",
         "Price": 28.80,
+        "categoris": "DESSERT",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/813908/WhatsApp_Image_2021-02-09_at_15.44.02.jpeg"
     },
     {
         "Item Name": "Biscoito Amanteigado",
         "Description": "O Melhor biscoito do mundo",
         "Price": 22.90,
+        "categoris": "DESSERT",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/813904/WhatsApp_Image_2021-02-09_at_15.44.03.jpeg"
     },
     {
         "Item Name": "Cocada",
-        "Description": "Delicioso doce de coco ralado e calda de açúcar, em ponto de rapadura!",
+        "Description": "Delicioso doce de coco ralado e calda de açúcar, em ponto de rapadura!",
         "Price": 19.00,
+        "categoris": "DESSERT",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/517969/Capturar.JPG"
     },
     {
         "Item Name": "Brownie",
         "Description": "Brownie de chocolate, fofinho e gostoso",
         "Price": 9.00,
+        "categoris": "DESSERT",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364678/Sobremesa_-_Brownies.png"
     },
     {
         "Item Name": "Pudim de Leite",
         "Description": "O pudim de leite mais gostoso do mundo.",
         "Price": 13.90,
+        "categoris": "DESSERT",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364677/Sobremesa_-_Pudim.png"
     },
     {
         "Item Name": "Vinho G7",
         "Description": "Vinho tinto seco Cabernet Sauvignon e Merlot.",
         "Price": 79.80,
+        "categoris": "BEVARAGE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/428311/g7.JPG"
     },
     {
         "Item Name": "Vinho San Martin",
-        "Description": "Vinho tinto Suave Cabernet Sauvignon.",
+        "Description": "Vinho tinto Suave Cabernet Sauvignon.",
         "Price": 69.80,
+        "categoris": "BEVARAGE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/428309/vinho_san.JPG"
     },
     {
         "Item Name": "Vinho Di Mallo",
-        "Description": "Vinho tinto seco Cabernet sauvignon e Merlot.",
+        "Description": "Vinho tinto seco Cabernet sauvignon e Merlot.",
         "Price": 89.80,
+        "categoris": "BEVARAGE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/392797/vinho_di_mallo.JPG"
     },
     {
         "Item Name": "Refrigerante PET",
-        "Description": "",
+        "Description": "Garrafa PET de refrigerante, ideal para refrescar sua refeição.",
         "Price": 12.90,
+        "categoris": "BEVARAGE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/389346/pet.JPG"
     },
     {
         "Item Name": "Refrigerante Lata",
-        "Description": "",
+        "Description": "Lata de refrigerante geladinha, perfeita para acompanhar seu prato.",
         "Price": 8.00,
+        "categoris": "BEVARAGE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364753/refri.JPG"
     },
     {
         "Item Name": "Água",
-        "Description": "",
+        "Description": "Água mineral pura e refrescante, para manter-se hidratado.",
         "Price": 4.00,
+        "categoris": "BEVARAGE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364752/yara.JPG"
     },
     {
         "Item Name": "Sucos",
-        "Description": "",
+        "Description": "Sucos naturais variados, perfeitos para acompanhar sua refeição.",
         "Price": 13.90,
+        "categoris": "BEVAREGE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364738/sucos.JPG"
     }
 ]
