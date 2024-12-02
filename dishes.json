@@ -808,49 +808,49 @@
         "Item Name": "Vinho G7",
         "Description": "Vinho tinto seco Cabernet Sauvignon e Merlot.",
         "Price": 79.80,
-        "categoris": "BEVARAGE",
+        "categoris": "BEVERAGE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/428311/g7.JPG"
     },
     {
         "Item Name": "Vinho San Martin",
         "Description": "Vinho tinto Suave Cabernet Sauvignon.",
         "Price": 69.80,
-        "categoris": "BEVARAGE",
+        "categoris": "BEVERAGE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/428309/vinho_san.JPG"
     },
     {
         "Item Name": "Vinho Di Mallo",
         "Description": "Vinho tinto seco Cabernet sauvignon e Merlot.",
         "Price": 89.80,
-        "categoris": "BEVARAGE",
+        "categoris": "BEVERAGE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/392797/vinho_di_mallo.JPG"
     },
     {
         "Item Name": "Refrigerante PET",
         "Description": "Garrafa PET de refrigerante, ideal para refrescar sua refeição.",
         "Price": 12.90,
-        "categoris": "BEVARAGE",
+        "categoris": "BEVERAGE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/389346/pet.JPG"
     },
     {
         "Item Name": "Refrigerante Lata",
         "Description": "Lata de refrigerante geladinha, perfeita para acompanhar seu prato.",
         "Price": 8.00,
-        "categoris": "BEVARAGE",
+        "categoris": "BEVERAGE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364753/refri.JPG"
     },
     {
         "Item Name": "Água",
         "Description": "Água mineral pura e refrescante, para manter-se hidratado.",
         "Price": 4.00,
-        "categoris": "BEVARAGE",
+        "categoris": "BEVERAGE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364752/yara.JPG"
     },
     {
         "Item Name": "Sucos",
         "Description": "Sucos naturais variados, perfeitos para acompanhar sua refeição.",
         "Price": 13.90,
-        "categoris": "BEVAREGE",
+        "categoris": "BEVERAGE",
         "Image": "https://cdn.neemo.com.br/uploads/item/photo/364738/sucos.JPG"
     }
 ]

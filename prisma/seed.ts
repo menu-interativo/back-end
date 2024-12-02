@@ -22,7 +22,7 @@ async function seed() {
 				description: dish.Description,
 				price: dish.Price,
 				imageUrl: dish.Image,
-				category: categories[index],
+				category: dish.categoris,
 				stock: 100,
 			};
 		})

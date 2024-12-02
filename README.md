@@ -1,6 +1,6 @@
 # back-end
+
  - docker-compose segundo player no codigo
  - npm install
- - npx prisma migration
- - npx prisma progation
+ - npx prisma migrate dev
  - npm run dev
