@@ -1,6 +1,7 @@
 import type { FastifyInstance } from 'fastify';
 import type { ZodTypeProvider } from 'fastify-type-provider-zod';
 
+
 import { compare } from 'bcryptjs';
 import { z } from 'zod';
 
@@ -8,6 +9,7 @@ import { prisma } from '@/lib/prisma';
 import { BadRequestError } from '@/http/_errors/bad-request-error';
 
 export async function authenticate(app: FastifyInstance) {
+
 	app.withTypeProvider<ZodTypeProvider>().route({
 		method: 'POST',
 		url: '/sessions',
